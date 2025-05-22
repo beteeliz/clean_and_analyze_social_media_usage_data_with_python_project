@@ -1,4 +1,4 @@
-# Clean and analyze social media usage data with Python Project
+# Social Media Project with Python
 ## Introduction
 This is a project for educational purposes. Do not use it for production. In this project, I take responsibilities of an entry level data analyst at a social media marketing company, tasked with analyzing the performance of various categories of social media posts. The main goal is to uncover meaningful insights that will help clients optimize their content strategies and boost engagement across their platforms.
 
